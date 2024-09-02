@@ -1,0 +1,15 @@
+#Main methods acts as a gateway for entering some value in a function.
+#There needs a main file from which the cintent is to be matched and checked.
+
+Main file.py
+
+def welcome(name):
+   print(f"Welcome {name}")
+if __name__=="__main__":
+    n=input ("Enter your name here:\n")
+    welcome(n)
+
+New file.py
+
+import Main file 
+Main file.welcome ("Adesh")
