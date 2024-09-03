@@ -1,0 +1,8 @@
+a=50
+def function1():
+    global a 
+    print (a)
+    a=9
+    print(a)
+function1()
+print(a)
