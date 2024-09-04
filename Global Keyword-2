@@ -1,0 +1,2 @@
+The use of global keyword is done in order to declare a value of variable as the same for all the upcoming instances of that variable.
+Once the value is being made declared it can be changed laterly by an instance occurrence value of that particular variable.
