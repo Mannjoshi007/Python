@@ -1,0 +1,4 @@
+list = [13,57,2,78,"rahul",828.90,True]
+
+for index,intem in enumerate (list):
+    print(index,item) 
