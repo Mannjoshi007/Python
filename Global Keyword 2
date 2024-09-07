@@ -1,0 +1,2 @@
+Once we declare the value of a variable as global it will never get overwritten.
+We need to rewrite the value in program itself only.
