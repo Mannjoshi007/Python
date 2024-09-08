@@ -1,0 +1,2 @@
+#We use enumerate() function when we want to enter a number counter along with the iterable item's representation.
+#Thus, enumerate () will always be helpful when doing the iteration and numbering of large iterative objects.
