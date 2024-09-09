@@ -1,0 +1,1 @@
+#Virtual environment means a python interface just like the main working one but having its own different data and different package (modules) versions installed in it which are useful in the case of an program made in some old extension version.
