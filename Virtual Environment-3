@@ -1,0 +1,21 @@
+#In terminal
+
+pip install virtualenv
+
+virtualenv mynewenv
+
+• \mynewenu \scripts\activate\ps1
+
+pip install flask 
+
+pip install pandas
+
+pip install pygame
+
+Python
+
+import pandas as pd
+
+import pygame
+
+exit()
