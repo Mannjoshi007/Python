@@ -1,0 +1,11 @@
+#In terminal
+
+pip freeze
+
+pip freeze > needs.txt
+
+#In new virtual environment 
+
+virtualenv workenv
+
+pip install -r  .\needs. txt
