@@ -1,0 +1,18 @@
+func= lambda a:a+5
+
+X= 566
+
+print (func(x))  
+
+Square = lambda x:x*x
+
+x=3
+
+print (square (x))
+
+sum=lambda a, b, c: a+b + c
+
+x=3
+
+print (sum (x,1,3))
+
