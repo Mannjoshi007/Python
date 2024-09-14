@@ -1,0 +1,18 @@
+l= [" Camera","phone", "Board", "Adapter"]
+
+Sentence = "and" .join (l)
+
+print (sentence)
+
+Sentence= "\n".join(l)
+
+print (sentence)
+
+print (type (sentence))
+
+l = ("Camera","Charger","phone")
+
+sentence="and".join(l)
+
+print (sentence)
+
