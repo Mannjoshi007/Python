@@ -1,0 +1,7 @@
+def square (n):
+
+return n*n
+
+1= [1,2,4]
+
+print (list (map (square, l)))
