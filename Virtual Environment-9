@@ -1,0 +1,15 @@
+def gr_to_5(n):
+   if n>5:
+        return True 
+   else:
+        return False 
+
+l= [8,2,9,6, 5, 4, 3, 29, 32, 45, 96]
+
+print (list (filter (gr_to_5, l)))
+
+g10= lambda n:n>15
+
+l=[9, 2, 6, 8., S, 42, 39, 45,28,29]
+
+print (list (filter (g1o, l)))
